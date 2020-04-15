@@ -4,7 +4,7 @@ import sys
 def compare(num):
 	num = int(num)
 	if num > 0:
-		print("GREATER")
+		print("GREATE")
 	elif num < 0:
 		print("LOWER")
 	else:
